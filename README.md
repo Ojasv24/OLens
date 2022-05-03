@@ -1,6 +1,6 @@
-# image_to_string2
+# Olens
 
-A new Flutter project.
+A new Flutter image to string App
 
 ## Getting Started
 
